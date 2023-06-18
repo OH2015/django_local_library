@@ -1,2 +1,2 @@
 # django_local_library
-django tutorial
+django tutorial aaa
